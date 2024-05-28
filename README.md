@@ -16,7 +16,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2405.16136-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2405.16136)  
 
-## Abstruct
+## Abstract
 
 <p align="center">
   <img align="middle" width="800" src="assets/arch-1.png"/>
