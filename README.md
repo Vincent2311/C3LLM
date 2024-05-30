@@ -51,5 +51,18 @@ Quantitative result on evaluating synchronization for video-to-audio task
 </p>
 
 # Demo results
-Demo for video-to-audio task. We combine the input silent video together with the generated audio to to better show the alignment.
+Demo for video-to-audio task. We combine the input silent video together with the generated audio to better show the alignment.
+
+
+https://github.com/Vincent2311/C3LLM/assets/90130756/c5b9c858-7009-4591-a1aa-82576eab3a9a
+
+
+
+https://github.com/Vincent2311/C3LLM/assets/90130756/e13ef660-e8b6-402e-8ad4-24c0a53a11fd
+
+
+
+https://github.com/Vincent2311/C3LLM/assets/90130756/733c5f8c-44a4-43b3-91a1-865b3cbbbf76
+
+
 
